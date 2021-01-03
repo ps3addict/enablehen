@@ -7,7 +7,7 @@ Offical Flash https://ps3addict.github.io/enablehen/flash.html
 
 Offical USB Port (Right-hand) https://ps3addict.github.io/enablehen/usb000.html
 
-Other USB Port (Left-hand)https://ps3addict.github.io/enablehen/usb001.html
+Other USB Port (Left-hand) https://ps3addict.github.io/enablehen/usb001.html
 
 ** Others htmls are UNTESTED and should NOT be used!
 
