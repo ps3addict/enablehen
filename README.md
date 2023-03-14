@@ -1,5 +1,5 @@
 # enablehen
-Various enablers for PS3HEN on HFW 4.84, 4.85, 4.86, 4.87, 4.88, and 4.89.
+Various enablers for PS3HEN on HFW 4.84 to 4.90.
 
 Hosted Online:
 
