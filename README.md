@@ -2,7 +2,7 @@
 
 OFW 4.80 to 4.82 and HFW 4.83 to 4.90 supported
 
-Offical [Flash https://ps3addict.github.io/enablehen/flash.html](Flash https://ps3addict.github.io/enablehen/flash.html)
+Offical Flash [https://ps3addict.github.io/enablehen/flash.html](https://ps3addict.github.io/enablehen/flash.html)
 
 Offical USB Port (Right-hand) [https://ps3addict.github.io/enablehen/usb000.html](https://ps3addict.github.io/enablehen/usb000.html)
 
