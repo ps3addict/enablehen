@@ -1,6 +1,6 @@
 # Various Enablers for PS3HEN
 
-OFW 4.80 to 4.82 and HFW 4.83 to 4.91 supported
+OFW 4.80 to 4.82 and HFW 4.83 to 4.92 supported
 
 Offical Flash [https://ps3addict.github.io/enablehen/flash.html](https://ps3addict.github.io/enablehen/flash.html)
 
