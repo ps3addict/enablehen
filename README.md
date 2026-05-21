@@ -1,5 +1,7 @@
 # Various Enablers for PS3HEN
 
+First link is useful when "Enable HEN" icon is broken or missing.
+
 OFW 4.80 to 4.82 and HFW 4.83 to 4.93 supported
 
 Offical Flash [https://ps3addict.github.io/enablehen/flash.html](https://ps3addict.github.io/enablehen/flash.html)
@@ -10,4 +12,4 @@ Alt. 1 USB Port (Left-hand) [https://ps3addict.github.io/enablehen/usb001.html](
 
 Alt. 2 USB Port (Left-hand) [https://ps3addict.github.io/enablehen/usb006.html](https://ps3addict.github.io/enablehen/usb006.html)
 
-** Any other enablers on this site are UNTESTED and should NOT be used!
+** Any other enablers found on this site are UNTESTED and should NOT be used!
